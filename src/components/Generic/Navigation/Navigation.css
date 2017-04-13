@@ -1,0 +1,33 @@
+@import '../../variables.css';
+.nav {
+  background-color: #F1EAE4;
+  border-radius: 0px;
+  margin: 0;
+  padding: 0;
+}
+.navItemText {
+  font-family: var(--font-family-base);
+  letter-spacing: 1px;
+  font-size: 12px;
+  padding: 0;
+  margin: 0;
+  color: #777;
+}
+.navItemText:hover {
+  color: #444
+}
+
+.brandText {
+  color: var(--main-light-color);
+  font-family: var(--font-family-base);
+  letter-spacing: 1.22px;
+  margin: 0;
+  font-size: 22;
+}
+.brandText:hover {
+  color: var(--main-color);
+}
+
+.mainColorBackground: {
+  background-color: #FC3A35;
+}

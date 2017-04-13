@@ -1,0 +1,31 @@
+:root {
+  /*
+   * Typography
+   * ======================================================================== */
+
+  --font-family-base: 'Lato', sans-serif;
+
+  /*
+   * Layout
+   * ======================================================================== */
+
+  --max-content-width: 1000px;
+  --space-text-1: 2px;
+
+  /*
+   * Color
+   * ======================================================================== */
+  --main-color : #FC3A35;
+  --main-light-color : #EA5C5C;
+  --main-background-color: #3E3E3E;
+  --main-light-background-color: #F4F4F4;
+
+  /*
+   * Media queries breakpoints
+   * ======================================================================== */
+
+  --screen-xs-min: 480px;  /* Extra small screen / phone */
+  --screen-sm-min: 768px;  /* Small screen / tablet */
+  --screen-md-min: 992px;  /* Medium screen / desktop */
+  --screen-lg-min: 1200px; /* Large screen / wide desktop */
+}

@@ -1,0 +1,46 @@
+@import '../../variables.css';
+.root {
+  background: var(--main-background-color);
+  padding-top: 20;
+}
+
+.flexRow {
+  display: flex;
+  align-items: center;
+  margin: 0;
+  padding: 50px 0px 0px;
+  text-align: left;
+}
+
+.subContainer{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.brandText {
+  color: var(--main-color);
+  text-align: center;
+}
+
+.copyRightText {
+  letter-spacing: 2px;
+  color: white;
+  font-size: 0.7em;
+  padding: 0;
+  margin: 10px;
+}
+
+.linkContainer{
+  padding: 3%;
+}
+
+.link, .link:active, .link:visited, .link:focus {
+  font-size: 1.1em;
+  color: rgba(255, 255, 255, 0.6);
+  letter-spacing: 2px;
+}
+
+.link:hover {
+  color: rgba(255, 255, 255, 1);
+}
