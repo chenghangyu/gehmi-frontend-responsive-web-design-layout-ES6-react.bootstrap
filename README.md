@@ -2,7 +2,7 @@ Used React with ES6 and React Bootstrap
 Works under src/routes/home directory
 
 ##### Goal
-###### Please implement the following design 
+###### implement the following design 
  ![Design Doc](http://www.purelybranded.com/wp-content/uploads/2012/09/responsive-web-design-a-working-example.gif)
  
 ##### Notes
